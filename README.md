@@ -1,0 +1,1 @@
+This is the fizz buzz code challenge, written in GO.
